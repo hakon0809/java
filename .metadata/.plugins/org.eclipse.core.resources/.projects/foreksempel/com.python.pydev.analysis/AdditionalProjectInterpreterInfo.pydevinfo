@@ -1,0 +1,47 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\hakon0809\Documents\New folder\java\.metadata\.plugins\org.eclipse.core.resources\.projects\foreksempel\com.python.pydev.analysis\v2_indexcache
+py2javaLoopControl|1484134466000000000|C:\Users\hakon0809\Dropbox\NTNU\Objekt orientert programmering\tdt4100-2017-master\git\tdt4100-2017\foreksempel\jpages\py2javaLoopControl.py
+py2javaString|1484134466000000000|C:\Users\hakon0809\Dropbox\NTNU\Objekt orientert programmering\tdt4100-2017-master\git\tdt4100-2017\foreksempel\jpages\py2javaString.py
+py2javaNumbers|1484134466000000000|C:\Users\hakon0809\Dropbox\NTNU\Objekt orientert programmering\tdt4100-2017-master\git\tdt4100-2017\foreksempel\jpages\py2javaNumbers.py
+downcountertester|1484134466000000000|C:\Users\hakon0809\Dropbox\NTNU\Objekt orientert programmering\tdt4100-2017-master\git\tdt4100-2017\foreksempel\jpages\downcountertester.py
+downcounter|1484134466000000000|C:\Users\hakon0809\Dropbox\NTNU\Objekt orientert programmering\tdt4100-2017-master\git\tdt4100-2017\foreksempel\jpages\downcounter.py
+py2javaLists|1484134466000000000|C:\Users\hakon0809\Dropbox\NTNU\Objekt orientert programmering\tdt4100-2017-master\git\tdt4100-2017\foreksempel\jpages\py2javaLists.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+3=py2javaString
+4=py2javaLoopControl
+2=py2javaNumbers
+1=downcounter
+5=py2javaLists
+-- END DICTIONARY
+-- START TREE 1
+23
+cou|2|counter!11@countDown!10@
+d|1|d!19@
+d1|1|d1!19@
+d2|1|d2!19@
+dom|1|domain!27@
+dou|3|douString!19@dou2!19@dou!19@
+ema|1|email!27@
+i|1|i!19@
+isf|1|isFinished!10@
+isp|1|isPalindrome!27@
+let|1|letters!35@
+lis|1|list!43@
+n|1|n!27@
+par|1|parts!27@
+per|1|personer!35@
+pla|1|plasser!35@
+pro|1|prog_spraak!35@
+s|2|s!35@s!27@
+stu|1|studentName!27@
+sub|1|sub!27@
+tek|1|tekst!27@
+tel|1|teller!35@
+tim|1|timer!35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
